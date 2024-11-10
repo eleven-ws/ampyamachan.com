@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkampyamachan_com=self.webpackChunkampyamachan_com||[]).push([[998],{3998:function(e,t,o){o.r(t),o.d(t,{default:function(){return l}});var a=o(6133),u=o(8756),n=o(5031);function l(){return(0,n.Y)(u.w,{title:"ABOUT",subtitle:"Automotive Photographer"},(0,n.Y)(a.A,{align:"center"},"You'll be satisfied by my photographs. If you love your automotive, you'll feel so happy ;)"))}}}]);
+//# sourceMappingURL=998-a517d72abf5874295d20.js.map
